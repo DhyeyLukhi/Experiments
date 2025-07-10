@@ -1,0 +1,40 @@
+.name{
+    position: absolute;
+    top: 7vw;
+    left: 21.15vw;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: darkgrey;
+    background-blend-mode: darken;
+}
+
+.interest{
+    position: absolute;
+    top: 12vw;
+    left: 21.15vw;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 1000px;
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: darkgrey;
+
+}
+
+.age{
+    position: absolute;
+    top: 17vw;
+    left: 21.15vw;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 1000px;
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: darkgrey;
+
+}
